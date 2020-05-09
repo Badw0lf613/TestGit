@@ -1,0 +1,14 @@
+p{
+    margin: 0px;
+    padding: 0px;
+    color: #fff;
+}
+.tips {
+    position: absolute;
+    background-color: #323232b3;
+    border-radius: 4px;
+    padding: 4px;
+    min-width: 100px;
+    min-height: 40px;
+    font-size: 14px;
+}
